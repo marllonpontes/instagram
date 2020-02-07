@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    >
+
+    //uma cor com opacidade 00 é transparente
+    <solid android:color="#00FFFFFF"></solid>
+
+    //definir um arredondamento
+    <corners android:radius="10dp"></corners>
+
+    //criar bordas width espessura
+    <stroke android:width="1dp" android:color="#C9DBE9"></stroke>
+
+
+</shape>

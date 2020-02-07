@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_senha">Senha</string>
+    <string name="txt_entrar">Entrar</string>
+    <string name="txt_cadastre_se">Cadastre-se</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_cadastrar">Cadastrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_publicacoes">Publicações</string>
+    <string name="txt_seguidores">Seguidores</string>
+    <string name="txt_seguindo">Seguindo</string>
+    <string name="txt_editar_perfil">Editar Perfil</string>
+    <string name="txt_alterar_foto">Alterar foto</string>
+    <string name="txt_nome_usuario">Nome usuário</string>
+    <string name="txt_salvar_alteracao">Salvar alterações</string>
+    <string name="txt_abrir_galeria">Abrir galeria</string>
+    <string name="txt_abrir_camera">Abrir câmera</string>
+    <string name="txt_descricao">Descrição</string>
+    <string name="txt_filtro">Filtro</string>
+    <string name="txt_numero_curtidas">0 curtidas</string>
+    <string name="txt_visualizar_comentarios">Visualizar comentários</string>
+    <string name="txt_escreva_um_comentario">Escreva um comentário</string>
+</resources>
