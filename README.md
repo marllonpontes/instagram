@@ -1,5 +1,5 @@
 <h1 align="center">
-  WhatsApp
+  Instagram                                       
 </h1>
 
 <h4 align="center">
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Instagram Clone é um projeto que visa compartilhar mensagens, fotos e vídeos.
+O Instagram Clone é um projeto que visa compartilhar mensagens, fotos e vídeos com seus seguidores.
 
 ## 🤔 Como contribuir
 
